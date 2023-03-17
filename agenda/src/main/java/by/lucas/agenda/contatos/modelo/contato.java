@@ -22,4 +22,5 @@ public class contato {
   private String email;
 
   private String urlavatar;
+  private String teste;
 }
